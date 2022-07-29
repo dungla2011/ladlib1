@@ -1,0 +1,17 @@
+{
+    "name": "lad/ladlib",
+    "description": "lad lib php",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dungla2011",
+            "email": "dungla2011@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"lad\\HelloWorld\\": "src/"}
+    },
+    "require": {}
+}
