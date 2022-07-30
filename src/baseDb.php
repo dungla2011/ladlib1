@@ -1,6 +1,6 @@
 <?php
 
-namespace lad;
+namespace LadLib;
 
 class baseDb
 {
