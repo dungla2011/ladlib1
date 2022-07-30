@@ -2,7 +2,7 @@
 
 namespace lad;
 
-class Index
+class index
 {
     public function greet($greet = "Hello World")
     {
