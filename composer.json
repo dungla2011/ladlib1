@@ -12,7 +12,7 @@
     ],
     "minimum-stability": "dev",
     "autoload": {
-        "psr-4": {"lad\\HelloWorld\\": "src/"}
+        "psr-4": {"lad\\": "src/"}
     },
     "require": {}
 }
