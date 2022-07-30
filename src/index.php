@@ -1,6 +1,6 @@
 <?php
 
-namespace lad\HelloWorld;
+namespace lad;
 
 class Index
 {

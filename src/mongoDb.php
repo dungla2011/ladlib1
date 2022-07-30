@@ -1,6 +1,6 @@
 <?php
 
-namespace lad\mongoDb;
+namespace lad;
 
 class mongoDb
 {
